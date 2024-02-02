@@ -740,12 +740,12 @@ a:hover {
 
 #jewellery_main_slider a.carousel-control-next {
     right: 615px;
-    top: 75%;
+    top: 105%;
 }
 
 #jewellery_main_slider a.carousel-control-prev {
     left: 615px;
-    top: 75%;
+    top: 105%;
 }
 
 #jewellery_main_slider .carousel-control-next,
